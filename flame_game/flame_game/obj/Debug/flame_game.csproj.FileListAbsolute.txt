@@ -1,0 +1,8 @@
+C:\Users\Ashith\OneDrive\Documents\C# Basic\flame_game\flame_game\bin\Debug\flame_game.exe.config
+C:\Users\Ashith\OneDrive\Documents\C# Basic\flame_game\flame_game\bin\Debug\flame_game.exe
+C:\Users\Ashith\OneDrive\Documents\C# Basic\flame_game\flame_game\bin\Debug\flame_game.pdb
+C:\Users\Ashith\OneDrive\Documents\C# Basic\flame_game\flame_game\obj\Debug\flame_game.csproj.AssemblyReference.cache
+C:\Users\Ashith\OneDrive\Documents\C# Basic\flame_game\flame_game\obj\Debug\flame_game.csproj.CoreCompileInputs.cache
+C:\Users\Ashith\OneDrive\Documents\C# Basic\flame_game\flame_game\obj\Debug\flame_game.exe
+C:\Users\Ashith\OneDrive\Documents\C# Basic\flame_game\flame_game\obj\Debug\flame_game.pdb
+C:\Users\Ashith\OneDrive\Documents\C# Basic\flame_game\flame_game\obj\Debug\flame_game.exe.config

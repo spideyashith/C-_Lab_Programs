@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\WordSorterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3804A84A-9635-4F88-B4A7-BD3FB1B1EFC5}|WordSorterApp\\WordSorterApp.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\wordsorterapp\\wordsorterapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{3804A84A-9635-4F88-B4A7-BD3FB1B1EFC5}|WordSorterApp\\WordSorterApp.csproj|solutionrelative:wordsorterapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\WordSorterApp\\WordSorterApp\\Default.aspx",
+              "RelativeDocumentMoniker": "WordSorterApp\\Default.aspx",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\WordSorterApp\\WordSorterApp\\Default.aspx",
+              "RelativeToolTip": "WordSorterApp\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T07:11:55.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

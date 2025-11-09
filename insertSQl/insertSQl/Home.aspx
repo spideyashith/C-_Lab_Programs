@@ -1,0 +1,22 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Home.aspx.cs" Inherits="insertSQl.Home" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:Button ID="Button1" runat="server" Text="Insert" OnClick="Button1_Click" />
+&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="Button2" runat="server" Text="Update" />
+&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="Button3" runat="server" Text="Delete" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="Button4" runat="server" Text="Reterive" />
+        </div>
+    </form>
+</body>
+</html>

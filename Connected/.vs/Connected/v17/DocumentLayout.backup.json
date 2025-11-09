@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\connected\\connected\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|solutionrelative:connected\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\connected\\connected\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|solutionrelative:connected\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\connected\\connected\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|solutionrelative:connected\\delete.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\connected\\connected\\delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|solutionrelative:connected\\delete.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\connected\\connected\\display.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|solutionrelative:connected\\display.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\connected\\connected\\display.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|solutionrelative:connected\\display.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\connected\\connected\\update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|solutionrelative:connected\\update.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\connected\\connected\\insert.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|solutionrelative:connected\\insert.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\connected\\connected\\insert.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{120559AE-505F-44D3-916B-3467CE5A5A75}|Connected\\Connected.csproj|solutionrelative:connected\\insert.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\home.aspx.cs",
+              "RelativeDocumentMoniker": "Connected\\home.aspx.cs",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\home.aspx.cs*",
+              "RelativeToolTip": "Connected\\home.aspx.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAvwCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:56:37.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "display.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\display.aspx.cs",
+              "RelativeDocumentMoniker": "Connected\\display.aspx.cs",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\display.aspx.cs",
+              "RelativeToolTip": "Connected\\display.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:54:09.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "display.aspx",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\display.aspx",
+              "RelativeDocumentMoniker": "Connected\\display.aspx",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\display.aspx",
+              "RelativeToolTip": "Connected\\display.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T09:54:01.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "update.aspx",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\update.aspx",
+              "RelativeDocumentMoniker": "Connected\\update.aspx",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\update.aspx",
+              "RelativeToolTip": "Connected\\update.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T09:53:44.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "delete.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\delete.aspx.cs",
+              "RelativeDocumentMoniker": "Connected\\delete.aspx.cs",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\delete.aspx.cs",
+              "RelativeToolTip": "Connected\\delete.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA6wBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:49:31.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "insert.aspx",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\insert.aspx",
+              "RelativeDocumentMoniker": "Connected\\insert.aspx",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\insert.aspx",
+              "RelativeToolTip": "Connected\\insert.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T09:48:49.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "delete.aspx",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\delete.aspx",
+              "RelativeDocumentMoniker": "Connected\\delete.aspx",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\delete.aspx",
+              "RelativeToolTip": "Connected\\delete.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T09:47:54.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "insert.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\insert.aspx.cs",
+              "RelativeDocumentMoniker": "Connected\\insert.aspx.cs",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\insert.aspx.cs",
+              "RelativeToolTip": "Connected\\insert.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAMwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:47:46.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\home.aspx",
+              "RelativeDocumentMoniker": "Connected\\home.aspx",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\Connected\\Connected\\home.aspx",
+              "RelativeToolTip": "Connected\\home.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T09:00:43.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

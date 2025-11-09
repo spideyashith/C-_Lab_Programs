@@ -1,0 +1,2 @@
+C:\Users\Ashith\OneDrive\Documents\C# Basic\login_project\login_project\obj\Debug\login_project.csproj.AssemblyReference.cache
+C:\Users\Ashith\OneDrive\Documents\C# Basic\login_project\login_project\obj\Debug\login_project.csproj.CoreCompileInputs.cache

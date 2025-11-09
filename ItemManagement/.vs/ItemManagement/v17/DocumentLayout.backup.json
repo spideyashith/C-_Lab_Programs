@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\ItemManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FB7C11-1C85-47BF-9BC8-2FF2E48FAF81}|ItemManagement\\ItemManagement.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\itemmanagement\\itemmanagement\\itemmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FB7C11-1C85-47BF-9BC8-2FF2E48FAF81}|ItemManagement\\ItemManagement.csproj|solutionrelative:itemmanagement\\itemmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FB7C11-1C85-47BF-9BC8-2FF2E48FAF81}|ItemManagement\\ItemManagement.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\itemmanagement\\itemmanagement\\itemmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F7FB7C11-1C85-47BF-9BC8-2FF2E48FAF81}|ItemManagement\\ItemManagement.csproj|solutionrelative:itemmanagement\\itemmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemManagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\ItemManagement\\ItemManagement\\ItemManagement.aspx.cs",
+              "RelativeDocumentMoniker": "ItemManagement\\ItemManagement.aspx.cs",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\ItemManagement\\ItemManagement\\ItemManagement.aspx.cs*",
+              "RelativeToolTip": "ItemManagement\\ItemManagement.aspx.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAmwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:59:34.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemManagement.aspx",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\ItemManagement\\ItemManagement\\ItemManagement.aspx",
+              "RelativeDocumentMoniker": "ItemManagement\\ItemManagement.aspx",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\ItemManagement\\ItemManagement\\ItemManagement.aspx*",
+              "RelativeToolTip": "ItemManagement\\ItemManagement.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T07:58:32.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

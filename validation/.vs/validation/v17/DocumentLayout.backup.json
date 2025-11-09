@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{450092E5-3292-4430-85AA-CC2A2C167431}|validation\\validation.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\validation\\validation\\val.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450092E5-3292-4430-85AA-CC2A2C167431}|validation\\validation.csproj|solutionrelative:validation\\val.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450092E5-3292-4430-85AA-CC2A2C167431}|validation\\validation.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\validation\\validation\\val.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{450092E5-3292-4430-85AA-CC2A2C167431}|validation\\validation.csproj|solutionrelative:validation\\val.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "val.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\validation\\validation\\val.aspx.cs",
+              "RelativeDocumentMoniker": "validation\\val.aspx.cs",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\validation\\validation\\val.aspx.cs*",
+              "RelativeToolTip": "validation\\val.aspx.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T01:03:52.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "val.aspx",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\validation\\validation\\val.aspx",
+              "RelativeDocumentMoniker": "validation\\val.aspx",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\validation\\validation\\val.aspx",
+              "RelativeToolTip": "validation\\val.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-04T01:02:52.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

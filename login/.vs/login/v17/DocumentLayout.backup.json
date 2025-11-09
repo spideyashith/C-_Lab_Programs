@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{929A2081-6142-42F5-8908-C0D483FECDA5}|login\\login.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\login\\login\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929A2081-6142-42F5-8908-C0D483FECDA5}|login\\login.csproj|solutionrelative:login\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929A2081-6142-42F5-8908-C0D483FECDA5}|login\\login.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\login\\login\\welcome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929A2081-6142-42F5-8908-C0D483FECDA5}|login\\login.csproj|solutionrelative:login\\welcome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929A2081-6142-42F5-8908-C0D483FECDA5}|login\\login.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\login\\login\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{929A2081-6142-42F5-8908-C0D483FECDA5}|login\\login.csproj|solutionrelative:login\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929A2081-6142-42F5-8908-C0D483FECDA5}|login\\login.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\login\\login\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{929A2081-6142-42F5-8908-C0D483FECDA5}|login\\login.csproj|solutionrelative:login\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929A2081-6142-42F5-8908-C0D483FECDA5}|login\\login.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\login\\login\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{929A2081-6142-42F5-8908-C0D483FECDA5}|login\\login.csproj|solutionrelative:login\\welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929A2081-6142-42F5-8908-C0D483FECDA5}|login\\login.csproj|c:\\users\\ashith\\onedrive\\documents\\c# basic\\login\\login\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{929A2081-6142-42F5-8908-C0D483FECDA5}|login\\login.csproj|solutionrelative:login\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Welcome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\login\\Welcome.aspx.cs",
+              "RelativeDocumentMoniker": "login\\Welcome.aspx.cs",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\login\\Welcome.aspx.cs",
+              "RelativeToolTip": "login\\Welcome.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:46:48.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\login\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "login\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\login\\Login.aspx.cs",
+              "RelativeToolTip": "login\\Login.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:46:22.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\login\\Registration.aspx.cs",
+              "RelativeDocumentMoniker": "login\\Registration.aspx.cs",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\login\\Registration.aspx.cs",
+              "RelativeToolTip": "login\\Registration.aspx.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:45:58.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.aspx",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\login\\Welcome.aspx",
+              "RelativeDocumentMoniker": "login\\Welcome.aspx",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\login\\Welcome.aspx",
+              "RelativeToolTip": "login\\Welcome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T08:45:19.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\login\\Login.aspx",
+              "RelativeDocumentMoniker": "login\\Login.aspx",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\login\\Login.aspx",
+              "RelativeToolTip": "login\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T08:45:05.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\login\\Registration.aspx",
+              "RelativeDocumentMoniker": "login\\Registration.aspx",
+              "ToolTip": "C:\\Users\\Ashith\\OneDrive\\Documents\\C# Basic\\login\\login\\Registration.aspx",
+              "RelativeToolTip": "login\\Registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T08:44:51.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

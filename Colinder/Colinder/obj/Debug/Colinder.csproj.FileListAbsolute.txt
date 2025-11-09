@@ -1,0 +1,7 @@
+C:\Users\Ashith\OneDrive\Documents\C# Basic\Colinder\Colinder\bin\Debug\Colinder.exe.config
+C:\Users\Ashith\OneDrive\Documents\C# Basic\Colinder\Colinder\bin\Debug\Colinder.exe
+C:\Users\Ashith\OneDrive\Documents\C# Basic\Colinder\Colinder\bin\Debug\Colinder.pdb
+C:\Users\Ashith\OneDrive\Documents\C# Basic\Colinder\Colinder\obj\Debug\Colinder.csproj.AssemblyReference.cache
+C:\Users\Ashith\OneDrive\Documents\C# Basic\Colinder\Colinder\obj\Debug\Colinder.csproj.CoreCompileInputs.cache
+C:\Users\Ashith\OneDrive\Documents\C# Basic\Colinder\Colinder\obj\Debug\Colinder.exe
+C:\Users\Ashith\OneDrive\Documents\C# Basic\Colinder\Colinder\obj\Debug\Colinder.pdb
